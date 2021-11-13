@@ -116,3 +116,5 @@ services:
     mem_limit: 256M
     ports:
     - 3306:3306
+
+    #just test for git push
